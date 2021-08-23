@@ -2,8 +2,7 @@
 
 You're here because you want the coolest discrete math learning environment ever, *and* you want it with *minimal* configuring of your own computer. Good news! We have just that for you. You must provide properly running VSCode and Docker Desktop installations on either Windows 10 (footnote below) or MacOS. Then, just follow the yellow brick road .,..,.,..,.,...
 
-## Yellow Brick Road
-- ...
+## ... the Yellow Brick Road
 - Update your operating system:
   - If MacOS: Be sure your OS is completely up-to-date (current version of Big Sur, 11.5.2 as of this writing).
   - If Windows: 
