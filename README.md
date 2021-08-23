@@ -26,7 +26,7 @@ You're here because you want (someone) to build an Ubuntu and VSCode-based devel
   - Search for and select *Clone Repository in Container Volume*
   - Paste the URL of your new repository as the argument.
   - If it asks, select *unique repository*.
-- Wait for your development environment to completely "boot up" before taking any further actions.
+- Wait for your development environment to completely "boot up" before taking any further actions. You can click to see the build process if you want.
 - Check to see that everything is working
   - Open the test.lean file (src/test/test_lean_mathlib.lean)
   -Check that the conditions described therein are satisfied.
