@@ -1,8 +1,8 @@
 # CS2120 Discrete Math Learning Environment (DMLE)
 
-You're here because you want a containerized Ubuntu and VSCode-based development environment, backed by your own GitHub repository, for learning and using discrete mathematics, and you want to have this with minimal re-configuration of your own local computer. There is good news: We have just that for you. What you must provide is VSCode and Docker Desktop running *properly* on either Windows 10 (footnote below) or MacOS. Just follow the yellow brick road! .,..,.,..,.,...
+You're here because you want the coolest discrete math learning environment ever, *and* you want it with *minimal* configuring of your own computer. Good news! We have just that for you. You must provide properly running VSCode and Docker Desktop installations on either Windows 10 (footnote below) or MacOS. Then, just follow the yellow brick road .,..,.,..,.,...
 
-## What To Do
+## Yellow Brick Road
 - ...
 - Update your operating system:
   - If MacOS: Be sure your OS is completely up-to-date (current version of Big Sur, 11.5.2 as of this writing).
@@ -38,23 +38,25 @@ You're here because you want a containerized Ubuntu and VSCode-based development
     - true: celebrate
     - false: tell us!  
 
-## What you now have
-You now have, up and running, the learning environment you'll need for this course (and a lot more). Yay! You're done.
+## What you have wrought
 
-## If you're curious
-Your new development environment delivers the following capabilities among others
-- VSCode, open and ready for you to start, and to continue, developing the logic of your application, in a professionally competent manner
-- A containerized/virtual computer delivering a richly configured discrete math learning environment
-  - Ubuntu 20.04 LTS operating system
-  - Lean Prover Community, with mathlib
-  - Widely used VSCode IDE
-  - Root "shell" into Ubuntu container.
-  - VSCode operates on a clone of your repo automatically created in your container
-- The entire development environment builds from the ground up when you first follow thees procedures
-- You can change and rebuild your own environment anytime, or incorporate improvements that we deliver from upstream 
-- The ability to pull "upstream" updates to integrate changes to the main repository into your clones. 
-- The ability to issue "pull requests," asking that your changes be incorporated into our upstream respository 
-- The clone of your repo is in the directory, /workspaces, in the container. 
+You now have, up and running, the remarkable discrete math learning environment for CS2120 (Fall 2021) Yay! You're done.
+
+## Of course, if your're curious
+- Yep, that was clickbait, but hey
+  - Your new development environment delivers the following capabilities among others
+  - VSCode, open and ready for you to start, and to continue, developing the logic of your application, in a professionally competent manner
+  - A containerized/virtual computer delivering a richly configured discrete math learning environment
+    - Ubuntu 20.04 LTS operating system
+    - Lean Prover Community, with mathlib
+    - Widely used VSCode IDE
+    - Root "shell" into Ubuntu container.
+    - VSCode operates on a clone of your repo automatically created in your container
+  - The entire development environment builds from the ground up when you first follow thees procedures
+  - You can change and rebuild your own environment anytime, or incorporate improvements that we deliver from upstream 
+  - The ability to pull "upstream" updates to integrate changes to the main repository into your clones. 
+  - The ability to issue "pull requests," asking that your changes be incorporated into our upstream respository 
+  - The clone of your repo is in the directory, /workspaces, in the container. 
 
 ## Help Make It Even Better
 Let us know what you think. Better yet, make it better and send us a PR. You'll be completely set up to do that by the results of this procedure. 
