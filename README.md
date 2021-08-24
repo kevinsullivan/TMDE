@@ -35,7 +35,7 @@ You're here because you want the coolest mathematical development environment ev
 - Now wait while your environment is built. You can click in the lower right to see the build process if you want. Wait for the building activity to end and for your environment to "boot up" before taking any further actions. There is a status bar at the bottom of the screen that reflects build processes status and activities.
 - Check to see that everything is working
   - Open the test.lean file (src/test/test_lean_mathlib.lean)
-  -Check that the conditions described therein are satisfied.
+  - Check that the conditions described therein are satisfied.
 -You may now work in and exit from VSCode as you wish. VSCode will let you re-open this project when you're ready to work on it again.
 
 ## What you have wrought
