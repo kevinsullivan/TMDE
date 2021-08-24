@@ -1,4 +1,4 @@
-# Get the (coolest) Mathematical Development Environment (ever) Here!
+# The (coolest) Mathematical Development Environment (ever)
 
 You're here because you want the coolest mathematical development environment ever, *and* you want it with "near-zero" configuring of your own computer (really). Well, that is just what we have for you. You provide properly running VSCode and Docker Desktop installations on a Windows 10 (footnote below) or MacOS computer, and we give you The (coolest) Mathematical Development Environment (ever). To get it, just follow the yellow brick road .,..,.,..,.,...
 
