@@ -17,7 +17,7 @@ You're here because you want the coolest mathematical development environment ev
         3. After obtaining the OS key, copy and paste it in to the Windows Activation page (same screen as Windows Update).
         4. Reboot your machine. You can check the Windows *System Information* app to confirm that your OS is updated.
 - Have a GitHub account. Create one for yourself if necessary. It's free: https://github.com/
-- Install Docker Desktop: https://www.docker.com/products/docker-desktop. It's free.
+- Install Docker Desktop: https://www.docker.com/products/docker-desktop. It's free. If you already have it, update it to the current version.
 - Install VSCode: https://code.visualstudio.com/download. It's free.
 - Launch Docker Desktop and watch for it to complete its start-up procedures. While it starts up, continue to the remaining instructions that follow here. 
 - Use GitHub to fork this repository now. How? Here:
