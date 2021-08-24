@@ -22,7 +22,7 @@ You're here because you want the coolest mathematical development environment ev
 - Use GitHub to fork this repository now. How? Here:
   - Be logged in to your GitHub account.
   - Visit *this* repository on GitHub (which is probably where you're reading this) while logged in to your GitHub account.
-  - "Fork" this repo using the *Fork* button in the upper right corner. This will create a clone of this repository (a copy that remembers where it came from) under your GitHub account. 
+  - "Fork" this repo using the *Fork* button in the upper right corner. This will create a clone of this repository (a copy that remembers where it came from) under your GitHub account. We recommend that you should change the name of your GitHub repo (hit the pencil icon next to its name on GitHub to start editing it) to reflect the nature of your project. Doing this will avoid conflicts should you try to do this procedure again.
   -   Visit your GitHub web page to confirm that you now own a clone of this repository. Click to view the repository.
   -   Select the green Code button, then HTTPS, then copy the URL that is provided. This will be the GitHub URL of your newly forked copy of the respository.
 - Start up your new environment
