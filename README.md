@@ -1,6 +1,6 @@
 # Get Your Mathematical Development Environment Here!
 
-You're here because you want the coolest discrete math learning environment ever, *and* you want it with *minimal* configuring of your own computer. Good news! We have just that for you. You must provide properly running VSCode and Docker Desktop installations on either Windows 10 (footnote below) or MacOS. Then, just follow the yellow brick road .,..,.,..,.,...
+You're here because you want the coolest mathematical development environment ever, *and* you want it "near-zero" configuring of your own computer. Well, we have just that for you. You provide properly running VSCode and Docker Desktop installations on Windows 10 (footnote below) or MacOS, and in return we give you *The* Mathematical Development Environment. To get it, just follow the yellow brick road .,..,.,..,.,...
 
 ## ... the Yellow Brick Road
 - Update your operating system:
