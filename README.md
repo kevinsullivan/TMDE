@@ -61,8 +61,7 @@ If you think you've found a problem, revisit this GitHub page and report an Issu
 
 
 ## Legal and contact
-Copyright: © 2021 By the Rector and Visitors of the University of Virginia.
-Supervising Author: Kevin Sullivan. UVa CS Dept. sullivan@virginia.edu. 
-Acknowledgements: Thank you to multiple students for read, test, and fixing. This work was supported in part by NSF Grant ...
-
+- Copyright: © 2021 By the Rector and Visitors of the University of Virginia.
+- Contact Author: Kevin Sullivan. UVa CS Dept. sullivan@virginia.edu. 
+- Acknowledgement: This work was and continues to be supported in part by the National Science Foundation under grant (Award Abstract) #1909414.
 
