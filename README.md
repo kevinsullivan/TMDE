@@ -2,7 +2,7 @@
 
 ## Why you're here
 
-You're here because you want the coolest mathematical development environment ever, *and* you want it with "near-zero" configuring of your own computer (really). Well, that is just what we have for you. You provide properly running VSCode and Docker Desktop installations on a Windows 10 (footnote below) or MacOS computer, and we give you The (coolest) Mathematical Development Environment (ever). Just follow the yellow brick road .,..,.,..,.,...
+You're here because you want the coolest mathematical development environment ever, "near-zero" configuring of your own computer. That's what we have for you right here.  You provide VSCode and Docker Desktop installations on a Windows 10 (footnote below) or MacOS computer, and we give you a Mathematics Development Environment based for now on the Lean Prover (Community) and its library of formalized mathematics. To get it, just follow the yellow brick road .,..,.,..,.,...
 
 ## .,,.. the Yellow Brick Road
 - Update your operating system:
