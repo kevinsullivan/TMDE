@@ -22,9 +22,9 @@ You're here because you want the coolest mathematical development environment ev
   - Be logged in to your GitHub account.
   - Visit *this* repository on GitHub (which is probably where you're reading this) while logged in to your GitHub account.
   - "Fork" this repo using the *Fork* button in the upper right corner. This will create a clone of this repository (a copy that remembers where it came from) under your GitHub account. 
-  -   Visit your GitHub web page to confirm that you now own a clone of this repository. 
+  -   Visit your GitHub web page to confirm that you now own a clone of this repository. Click to view the repository.
   -   Select the green Code button, then HTTPS, then copy the URL that is provided. This will be the GitHub URL of your newly forked copy of the respository.
-- Launch your new environment
+- Start up your new environment
   - Start a *new* VSCode window. 
   - Use CTRL/CMD-SHIFT-P to bring up the VSCode command palatte. 
   - Search for and select *Clone Repository in Container Volume*
@@ -34,32 +34,30 @@ You're here because you want the coolest mathematical development environment ev
 - Check to see that everything is working
   - Open the test.lean file (src/test/test_lean_mathlib.lean)
   -Check that the conditions described therein are satisfied.
-  - Cases
-    - true: celebrate, give yourself something for a job well done
-    - false: try to figure out and fix what went wrong; don't give up too early; ask for help if it not working nevertheless
+-You may now work in and exit from VSCode as you wish. VSCode will let you re-open this project when you're ready to work on it again.
 
 ## What you have wrought
 
-You now have, up and running, the remarkable discrete math learning environment for CS2120 (Fall 2021) Yay! You're done.
+You now have, up and running, the coolest discrete math learning environment ever. Yay! You're done.
 
 ## Of course, if your're curious
 - Yep, that was clickbait, but hey
-  - Your new development environment delivers the following capabilities among others
-  - VSCode, open and ready for you to start, and to continue, developing the logic of your application, in a professionally competent manner
-  - A containerized/virtual computer delivering a richly configured discrete math learning environment
-    - Ubuntu 20.04 LTS operating system
-    - Lean Prover Community, with mathlib
-    - Widely used VSCode IDE
-    - Root "shell" into Ubuntu container.
-    - VSCode operates on a clone of your repo automatically created in your container
-  - The entire development environment builds from the ground up when you first follow thees procedures
-  - You can change and rebuild your own environment anytime, or incorporate improvements that we deliver from upstream 
-  - The ability to pull "upstream" updates to integrate changes to the main repository into your clones. 
-  - The ability to issue "pull requests," asking that your changes be incorporated into our upstream respository 
-  - The clone of your repo is in the directory, /workspaces, in the container. 
+- Your new development environment delivers the following capabilities among others
+- VSCode, open and ready for you to start, and to continue, developing the logic of your application, in a professionally competent manner
+- A containerized/virtual computer delivering a richly configured discrete math learning environment
+  - Ubuntu 20.04 LTS operating system
+  - Lean Prover Community, with mathlib
+  - Widely used VSCode IDE
+  - Root "shell" into Ubuntu container.
+  - VSCode operates on a clone of your repo automatically created in your container
+- The entire development environment builds from the ground up when you first follow thees procedures
+- You can change and rebuild your own environment anytime, or incorporate improvements that we deliver from upstream 
+- The ability to pull "upstream" updates to integrate changes to the main repository into your clones. 
+- The ability to issue "pull requests," asking that your changes be incorporated into our upstream respository 
+- The clone of your repo is in the directory, /workspaces, in the container. 
 
-## Help Make It Even Better
-Let us know what you think. Better yet, make it better and send us a PR. You'll be completely set up to do that by the results of this procedure. 
+## If you find a problem or an opportunity ...
+If you think you've found a problem, revisit this GitHub page and report an Issue. Better yet, if you then fix the problem on your own clone of this site, commit and push it to your GitHub repo then send us a Pull Request, which will send us your changes to review and possible merge them into our main repository, whereupon they will become available to everyone else, as well.  
 
 
 ## Legal and contact
