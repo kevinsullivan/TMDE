@@ -40,7 +40,7 @@ You're here because you want the coolest mathematical development environment ev
 
 ## What you have wrought
 
-You now have, up and running, the coolest discrete math learning environment ever. Yay! You're done.
+You now have, up and running, the coolest discrete math learning environment ever. Yay! You're done (getting ready to start).
 
 ## Of course, if your're curious
 - Yep, that was clickbait, but hey, your new environment delivers many capabilities 
