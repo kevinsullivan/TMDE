@@ -63,5 +63,5 @@ If you think you've found a problem, revisit this GitHub page and report an Issu
 ## Legal and contact
 - Copyright: © 2021 By the Rector and Visitors of the University of Virginia.
 - Contact Author: Kevin Sullivan. UVa CS Dept. sullivan@virginia.edu. 
-- Acknowledgement: This work was and continues to be supported in part by the National Science Foundation under grant (Award Abstract) #1909414.
+- Acknowledgement: This work is supported in part by the National Science Foundation under grant (Award Abstract) #1909414.
 
