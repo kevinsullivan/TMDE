@@ -43,19 +43,18 @@ You're here because you want the coolest mathematical development environment ev
 You now have, up and running, the coolest discrete math learning environment ever. Yay! You're done.
 
 ## Of course, if your're curious
-- Yep, that was clickbait, but hey
-- Your new development environment delivers the following capabilities among others
-- VSCode, open and ready for you to start, and to continue, developing the logic of your application, in a professionally competent manner
-- A containerized/virtual computer delivering a richly configured discrete math learning environment
-  - Ubuntu 20.04 LTS operating system
-  - Lean Prover Community, with mathlib
-  - Widely used VSCode IDE
-  - Root "shell" into Ubuntu container.
-  - VSCode operates on a clone of your repo automatically created in your container
-- The entire development environment builds from the ground up when you first follow thees procedures
-- You can change and rebuild your own environment anytime, or incorporate improvements that we deliver from upstream 
-- The ability to pull "upstream" updates to integrate changes to the main repository into your clones. 
-- The ability to issue "pull requests," asking that your changes be incorporated into our upstream respository 
+- Yep, that was clickbait, but hey, your new environment delivers many capabilities 
+  - VSCode, open and ready for you to start, and to continue, developing the logic of your application, in a professionally competent manner
+  - A containerized/virtual computer delivering a richly configured discrete math learning environment
+    - Ubuntu 20.04 LTS operating system
+    - Lean Prover Community, with mathlib
+    - Widely used VSCode IDE
+    - Root "shell" into Ubuntu container.
+    - VSCode operates on a clone of your repo automatically created in your container
+  - The entire development environment builds from the ground up when you first follow thees procedures
+  - You can change and rebuild your own environment anytime, or incorporate improvements that we deliver from upstream 
+  - The ability to pull "upstream" updates to integrate changes to the main repository into your clones. 
+  - The ability to issue "pull requests," asking that your changes be incorporated into our upstream respository 
 - The clone of your repo is in the directory, /workspaces, in the container. 
 
 ## If you find a problem or an opportunity ...
