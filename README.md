@@ -6,12 +6,14 @@ You're here because you want the coolest mathematical development environment ev
 - Update your operating system:
   - If MacOS: Be sure your OS is up-to-date (current version of Big Sur, 11.5.2 as of this writing).
   - If Windows: 
-    - Windows 10 Home won't do, but it's probably what you have. You must update to Windows 10 Professional, Enterprises, or Education.
-    - UVa students: Get or update to Windows 10 Education through ITS, as follows:
-      1. Get OS Windows Update license key from ITS: https://virginia.service-now.com/its/.  
-      2. Click Software in the left-hand navigation. Select the *latest* Windows 10 Education version. Get an update key.
-      3. After obtaining the OS key, copy and paste it in to the Windows Activation page (same screen as Windows Update).
-      4. Reboot your machine. You can check the Windows *System Information* app to confirm that your OS is updated.
+    - Windows 10 Home won't do, but it's probably what you have. 
+    - You must update to Windows 10 Professional, Enterprises, or Education
+      - Outside UVa:  Update keys are readily available online
+      - UVa students: Get or update to Windows 10 Education through ITS, as follows:
+        1. Get OS Windows Update license key from ITS: https://virginia.service-now.com/its/.  
+        2. Click Software in the left-hand navigation. Select the *latest* Windows 10 Education version. Get an update key.
+        3. After obtaining the OS key, copy and paste it in to the Windows Activation page (same screen as Windows Update).
+        4. Reboot your machine. You can check the Windows *System Information* app to confirm that your OS is updated.
 - Have a GitHub account. Create one for yourself if necessary. It's free: https://github.com/
 - Install Docker Desktop: https://www.docker.com/products/docker-desktop. It's free.
 - Install VSCode: https://code.visualstudio.com/download. It's free.
