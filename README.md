@@ -62,7 +62,7 @@ If you think you've found a problem, revisit this GitHub page and report an Issu
 
 
 ## Legal and contact
+- Acknowledgement: This work is supported in part by the National Science Foundation under grant (Award Abstract) #1909414.
 - Copyright: © 2021 by Kevin Sullivan, et al.
 - Contact Author: Kevin Sullivan. UVa CS Dept. sullivan@virginia.edu. 
-- Acknowledgement: This work is supported in part by the National Science Foundation under grant (Award Abstract) #1909414.
 
