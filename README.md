@@ -65,4 +65,4 @@ If you think you've found a problem, revisit this GitHub page and report an Issu
 - Acknowledgement: This work is supported in part by the National Science Foundation under grant (Award Abstract) #1909414.
 - Copyright: © 2021 by Kevin Sullivan, et al.
 - Permission: We kindly request that you let us know of your use of this technology, for teaching, reseasrch, government, or industrial purposes. 
-- Contact Author: Kevin Sullivan. UVa CS Dept. sullivan@virginia.edu. 
+- Primary and Contact Author: Kevin Sullivan. UVa CS Dept. sullivan@virginia.edu. Acknowledgements for contributions that helped me to produce this repository go to Charlie Houghton, Andrew Elsey, et al.  
