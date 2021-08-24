@@ -1,4 +1,4 @@
-# The coolest Mathematical Development Environment ever
+# A Mathematics Development Environment
 
 ## Why you're here
 
