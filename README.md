@@ -1,7 +1,7 @@
 # Your Mathematics Development Environment
 ## Why you're here
 
-You're here because you want the coolest mathematical development environment ever, "near-zero" configuring of your own computer. That's what we have for you right here.  You provide VSCode and Docker Desktop installations on a Windows 10 (footnote below) or MacOS computer, and we give you a Mathematics Development Environment based for now on the Lean Prover (Community) and its library of formalized mathematics. To get it, just follow the yellow brick road .,..,.,..,.,...
+You're here because you want the coolest mathematical development environment ever, based on the Lean Prover (Community) and its library of formalized mathematics, with little configuring of your own computer. As long as you provide VSCode and Docker Desktop running properly on a Windows 10 or MacOS computer, we give you a Mathematics Development Environment based for now on the Lean Prover (Community) and its library of formalized mathematics. Off news for Windows 10 Home users: We cannot guarantee that Docker Deskop will run properly for you on a Windows Home computer. We recommend an easy upgrade to Windows 10 Professional or Education. Now just follow the yellow brick road .,..,.,..,.,...
 
 ## .,,.. the Yellow Brick Road
 - Update your operating system:
