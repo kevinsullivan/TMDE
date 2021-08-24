@@ -18,7 +18,7 @@ You're here because you want the coolest discrete math learning environment ever
 - Launch Docker Desktop and watch for it to complete its start-up procedures. While it starts up, continue to the remaining instructions that follow here. 
 - Use GitHub to fork this repository now. How? Here:
   - Be logged in to your GitHub account.
-  - Visit *this* repository on GitHub (which is probably where you're reading this) while logged in to your GiutHub account.
+  - Visit *this* repository on GitHub (which is probably where you're reading this) while logged in to your GitHub account.
   - "Fork" this repo using the *Fork* button in the upper right corner. This will create a clone of this repository (a copy that remembers where it came from) under your GitHub account. 
   -   Visit your GitHub web page to confirm that you now own a clone of this repository. 
   -   Now you will "fire up" a whole new computer, that we're giving you, within a Docker container; and this computer will in turn have a clone of your new clone.
