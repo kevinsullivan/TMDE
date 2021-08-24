@@ -1,10 +1,10 @@
 # Get Your Mathematical Development Environment Here!
 
-You're here because you want the coolest mathematical development environment ever, *and* you want it "near-zero" configuring of your own computer. Well, we have just that for you. You provide properly running VSCode and Docker Desktop installations on Windows 10 (footnote below) or MacOS, and in return we give you *The* Mathematical Development Environment. To get it, just follow the yellow brick road .,..,.,..,.,...
+You're here because you want the coolest mathematical development environment ever, *and* you want it with "near-zero" configuring of your own computer (really). Well, that is just what we have for you. You provide properly running VSCode and Docker Desktop installations on a Windows 10 (footnote below) or MacOS computer, and we give you The (coolest) Mathematical Development Environment (ever). To get it, just follow the yellow brick road .,..,.,..,.,...
 
-## ... the Yellow Brick Road
+## .,,.. the Yellow Brick Road
 - Update your operating system:
-  - If MacOS: Be sure your OS is completely up-to-date (current version of Big Sur, 11.5.2 as of this writing).
+  - If MacOS: Be sure your OS is up-to-date (current version of Big Sur, 11.5.2 as of this writing).
   - If Windows: 
     - Windows 10 Home won't do, but it's probably what you have. You must update to Windows 10 Professional, Enterprises, or Education.
     - UVa students: Get or update to Windows 10 Education through ITS, as follows:
