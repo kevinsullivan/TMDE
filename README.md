@@ -6,7 +6,7 @@ You're here because you want the coolest mathematical development environment ev
 - Update your operating system:
   - If MacOS: Be sure your OS is up-to-date (current version of Big Sur, 11.5.2 as of this writing).
   - If Windows: 
-    - Windows 10 Home won't do, but it's probably what you have. 
+    - Windows 10 Home won't do, but it's probably what you have. Run the System Information App to find out.
     - You must update to Windows 10 Professional, Enterprises, or Education
       - Outside UVa:  Update keys are readily available online
       - UVa students: Get or update to Windows 10 Education through ITS, as follows:
