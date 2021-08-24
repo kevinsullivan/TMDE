@@ -45,7 +45,7 @@ You now have, up and running, the coolest mathematical development environment e
 ## Of course, if your're curious
 - Yep, that was clickbait, but hey, your new environment delivers many capabilities 
   - VSCode, open and ready for you to start, and to continue, developing the logic of your application, in a professionally competent manner
-  - A containerized/virtual computer delivering a richly configured discrete math learning environment
+  - A containerized/virtual computer delivering a richly configured development environment that supports use of the Lean Prover and its mathlib
     - Ubuntu 20.04 LTS operating system
     - Lean Prover Community, with mathlib
     - Widely used VSCode IDE
