@@ -36,7 +36,7 @@ You're here because you want the coolest mathematical development environment ev
 - Check to see that everything is working
   - Open the test.lean file (src/test/test_lean_mathlib.lean)
   - Check that the conditions described therein are satisfied.
--You may now work in and exit from VSCode as you wish. VSCode will let you re-open this project when you're ready to work on it again.
+- You may now work in and exit from VSCode as you wish. VSCode will let you re-open this project when you're ready to work on it again.
 
 ## What you have wrought
 
