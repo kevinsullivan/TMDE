@@ -21,22 +21,20 @@ You're here because you want the coolest discrete math learning environment ever
   - Visit *this* repository on GitHub (which is probably where you're reading this) while logged in to your GitHub account.
   - "Fork" this repo using the *Fork* button in the upper right corner. This will create a clone of this repository (a copy that remembers where it came from) under your GitHub account. 
   -   Visit your GitHub web page to confirm that you now own a clone of this repository. 
-  -   Now you will "fire up" a whole new computer, that we're giving you, within a Docker container; and this computer will in turn have a clone of your new clone.
-  -   You will work entirely through VSCode and with direct acccess to the (virtual) computer that provide with your new discrete math learning environment (DMLE). The next step requires the GitHub URL of your new clone.
   -   Select the green Code button, then HTTPS, then copy the URL that is provided. This will be the GitHub URL of your newly forked copy of the respository.
-- Launch DMLE
-  - Launch a *new* VSCode window. 
+- Launch your new environment
+  - Start a *new* VSCode window. 
   - Use CTRL/CMD-SHIFT-P to bring up the VSCode command palatte. 
   - Search for and select *Clone Repository in Container Volume*
   - Paste in the GitHub URL of your new clone as the argument.
   - If you're asked to choose something, select *unique repository*.
-- Now just wait. You environment is being built from the ground up. You can click to see the build process if you want. Wait for your development environment to completely "boot up" before taking any further actions. There is a status bar at the bottom of the screen that reflects build processes status and activities.
+- Now wait while your environment is built. You can click in the lower right to see the build process if you want. Wait for the building activity to end and for your environment to "boot up" before taking any further actions. There is a status bar at the bottom of the screen that reflects build processes status and activities.
 - Check to see that everything is working
   - Open the test.lean file (src/test/test_lean_mathlib.lean)
   -Check that the conditions described therein are satisfied.
   - Cases
-    - true: celebrate
-    - false: tell us!  
+    - true: celebrate, give yourself something for a job well done
+    - false: try to figure out and fix what went wrong; don't give up too early; ask for help if it not working nevertheless
 
 ## What you have wrought
 
