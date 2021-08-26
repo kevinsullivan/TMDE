@@ -8,10 +8,10 @@ You're here because you want the coolest mathematical development environment ev
   - If MacOS: Be sure your OS is up-to-date (current version of Big Sur, 11.5.2 as of this writing).
   - If Windows: Windows 10 Home won't do, but it's probably what you have. Run the System Information App to find out. You must either be running or update to Windows 10 Professional, Enterprises, or Education. Update keys are readily available online and might be available for free through your educational institution.
 - Install git on your computer (if you know you already have it, skip this step):
-  - Windows: https://git-scm.com/download/win
+  - Windows: Download and run the Git for Windows installer here: <https://git-scm.com/download/win>
   - OSX/MacOs
     - Find and run the Terminal program
-    - Enter the following command in the window: git --version
+    - Enter the following command in the window: *git --version*
     - If git is not installed, you'll be asked whether you want it installed. Answer yes. 
 - Have a GitHub account. Create one for yourself if necessary. It's free: https://github.com/
 - Install Docker Desktop: https://www.docker.com/products/docker-desktop. It's free. If you already have it, update it to the current version.
