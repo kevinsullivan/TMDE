@@ -18,7 +18,7 @@ You're here because you want the coolest mathematical development environment ev
         4. Reboot your machine. You can check the Windows *System Information* app to confirm that your OS is updated.
 - Have a GitHub account. Create one for yourself if necessary. It's free: https://github.com/
 - Install Docker Desktop: https://www.docker.com/products/docker-desktop. It's free. If you already have it, update it to the current version.
-- Install VSCode: https://code.visualstudio.com/download. It's free.
+- Install VSCode: https://code.visualstudio.com/download. It's free. NB: Docker Desktop *must* be running when you start VSCode as part of these instructions, as you will be using Docker container related commands from within VSCode.
 - Launch Docker Desktop and watch for it to complete its start-up procedures. While it starts up, continue to the remaining instructions that follow here. 
 - Use GitHub to fork this repository now. How? Here:
   - Be logged in to your GitHub account.

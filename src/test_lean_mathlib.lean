@@ -7,7 +7,8 @@ Good to go!
 -/
 import algebra.add_torsor
 /-
-Otherwise something's wrong with your lean/mathlib install.
+Otherwise something is wrong with your Lean
+or mathlib installation. In that case, please
+seek help from your instructor.
 -/
-def a := 1
-#check ℕ
+
