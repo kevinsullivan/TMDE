@@ -6,15 +6,7 @@ You're here because you want the coolest mathematical development environment ev
 ## .,,.. the Yellow Brick Road
 - Update your operating system:
   - If MacOS: Be sure your OS is up-to-date (current version of Big Sur, 11.5.2 as of this writing).
-  - If Windows: 
-    - Windows 10 Home won't do, but it's probably what you have. Run the System Information App to find out.
-    - You must either be running or update to Windows 10 Professional, Enterprises, or Education
-      - Outside UVa:  Update keys are readily available online
-      - UVa students: Get or update to Windows 10 Education through ITS, as follows:
-        1. Get OS Windows Update license key from ITS: https://virginia.service-now.com/its/.  
-        2. Click Software in the left-hand navigation. Select the *latest* Windows 10 Education version. Get an update key.
-        3. After obtaining the OS key, copy and paste it in to the Windows Activation page (same screen as Windows Update).
-        4. Reboot your machine. You can check the Windows *System Information* app to confirm that your OS is updated.
+  - If Windows: Windows 10 Home won't do, but it's probably what you have. Run the System Information App to find out. You must either be running or update to Windows 10 Professional, Enterprises, or Education. Update keys are readily available online and might be available for free through your educational institution. 
 - Have a GitHub account. Create one for yourself if necessary. It's free: https://github.com/
 - Install Docker Desktop: https://www.docker.com/products/docker-desktop. It's free. If you already have it, update it to the current version.
 - Install VSCode: https://code.visualstudio.com/download. It's free.
@@ -26,7 +18,11 @@ You're here because you want the coolest mathematical development environment ev
   -   Visit your GitHub web page to confirm that you now own a clone of this repository. Click to view the repository.
   -   Select the green Code button, then HTTPS, then copy the URL that is provided. This will be the GitHub URL of your newly forked copy of the respository.
 - Start up your new environment
-  - Start a *new* VSCode window. 
+  - Start a *new* VSCode window.
+  - Install the _Remote Containers_ extension.
+    - Click on the Extensions icon (four boxes, one out of place) on the left panel of VSCode
+    - Search for, select, and install the _Remote Containers_ extension
+    - A new green icon >< should appear in the lower left corner of your VSCode window 
   - Use CTRL/CMD-SHIFT-P to bring up the VSCode command palatte. 
   - Search for and select *Clone Repository in Container Volume*
   - Paste in the GitHub URL of your new clone as the argument.
