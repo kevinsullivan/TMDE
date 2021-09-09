@@ -12,7 +12,9 @@ You're here because you want the coolest mathematical development environment ev
 - the ability to extend and rebuild the environment by adding elements to a Dockerfile we provide
 -  and more
 
-## .,,.. the Yellow Brick Road
+To get it, just follow the yellow brick road ...
+
+## ... the Yellow Brick Road
 - Update your operating system:
   - If MacOS: Be sure your OS is up-to-date (current version of Big Sur, 11.5.2 as of this writing).
   - If Windows: 
