@@ -55,19 +55,7 @@ To get it, just follow the yellow brick road ...
 
 You now have, up and running, the coolest mathematical development environment ever. You're done here now!
 
-## Of course, if your're curious
-- Yep, that was clickbait, but hey, your new environment delivers many capabilities. They include the following.
-  - VSCode will be open and ready for you to start developing your applications with professional-quality infrastructure
-  - A containerized/virtual computer delivering a richly configured environment including the Lean Prover and its library of formalized mathematics (mathlib)
-    - Ubuntu 20.04 LTS operating system
-    - Lean Prover Community, with mathlib
-    - Widely used VSCode IDE
-    - Root "shell" into Ubuntu container.
-    - VSCode operates on a clone of your repo created in your container
-  - The entire development environment builds itself when you first follow these procedures
-- The clone of your repo is in the directory, /workspaces, in the container. 
-
-## If you find a problem or an opportunity ...
+## If you find a problem or see an opportunity ...
 If you think you've found a problem, revisit this GitHub page and report an Issue. Better yet, if you then fix the problem on your own clone of this site, commit and push it to your GitHub repo then send us a *Pull Request*. That will will send us your changes to review and possibly merge them into our main repository, whereupon they will then become available for anyone else to *Pull*, as well.  
 
 ## Other notes
