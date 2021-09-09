@@ -19,7 +19,7 @@ To get it, just follow the yellow brick road ...
   - If MacOS: Be sure your OS is up-to-date (current version of Big Sur, 11.5.2 as of this writing).
   - If Windows: 
     - First update your Windows OS to the current release (run Windows Update until it stops finding more updates to install). 
-    - Windows 10 Home won't do: you must either be running or update to Windows 10 Professional, Enterprises, or Education. 
+    - Windows 10 Home won't do: you must either be running, or update to, Windows 10 Professional, Enterprises, or Education. 
     - Update keys are readily and immediately available online and might be available for free through your educational institution.
 - Install git on your computer (if you know you already have it, skip this step):
   - Windows: Download and run the Git for Windows installer here: <https://git-scm.com/download/win>
