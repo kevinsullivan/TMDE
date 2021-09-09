@@ -59,7 +59,8 @@ You now have, up and running, the coolest mathematical development environment e
 If you think you've found a problem, revisit this GitHub page and report an Issue. Better yet, if you then fix the problem on your own clone of this site, commit and push it to your GitHub repo then send us a *Pull Request*. That will will send us your changes to review and possibly merge them into our main repository, whereupon they will then become available for anyone else to *Pull*, as well.  
 
 ## Other notes
-- More sophisticated developers might already be running *podman* in lieu of Docker's version of docker. One user reports that the Clone Repo in Container VSCode command doesn't work but that cloning the repo manually and then running the Open Folder command does work. We haven''t confirmed.
+- The solution we've described won't quite work "out of the box" on Linux machines because Linux doesn't support Docker Desktop.
+- Linux users will likely use *podman* in lieu of Docker's version of docker. The VSCode "Clone Repo in Container" command doesn't appear to work when using podman, but we've been told that cloning your fork of our repo into the container manually and then running the VSCode Open Folder command does work. We haven't confirmed.
 
 ## Legal and contact
 - Acknowledgement: This work is supported in part by the National Science Foundation under grant (Award Abstract) #1909414.
