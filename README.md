@@ -1,16 +1,15 @@
 # The Mathematics Development Environment (TMDE)
 ## Why you're here
 
-You're here because you want the coolest mathematical development environment ever, with very little configuring of your own computer required. You must provide VSCode and Docker Desktop running properly on a Windows 10+ or MacOS computer. We then provide a Mathematics Development Environment, providing, among other features:
+You're here because you want the coolest mathematical development environment ever, with very little configuring of your own computer required. You must provide VSCode and Docker Desktop running properly on a Windows 10+ or MacOS computer. We then provide you with a Mathematics Development Environment. Among its features are the following: 
 - the Lean Prover
 - its library of formalized mathematics (mathlib)
 - a Docker container providing a complete, ready-for-Lean-development platform based on Ubuntu 20.04 LTS
-- a clone of (your fork of) this repo as starting point for development within that container
+- a containerized clone of (your fork of) this repo as starting point for development within that container
 - your own GitHub repo (your fork of this project), to which you can push changes in your containerized clone
 - a nicely configured VSCode IDE, already opened for immediate development of that cloned project within the container
 - VSCode terminal/shells into the containerized Ubuntu platform with administrative (sudo) privileges
 - the ability to extend and rebuild the environment by adding elements to a Dockerfile we provide
--  and more
 
 To get it, just follow the yellow brick road ...
 
