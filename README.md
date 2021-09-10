@@ -14,7 +14,7 @@ You're here because you want the coolest mathematical development environment ev
 
 To get it, just follow the yellow brick road ...
 
-## ... the Yellow Brick Road
+## The Yellow Brick Road
 - Update your operating system:
   - If MacOS: Be sure your OS is up-to-date (current version of Big Sur, 11.5.2 as of this writing).
   - If Windows: 
