@@ -6,10 +6,11 @@ You're here because you want the coolest mathematical development environment ev
 - its library of formalized mathematics (mathlib)
 - a Docker container providing a complete, ready-for-Lean-development platform based on Ubuntu 20.04 LTS
 - a containerized clone of (your fork of) this repo as starting point for development within that container
-- your own GitHub repo (your fork of this project), to which you can push changes in your containerized clone
-- a nicely configured VSCode IDE, already opened for immediate development of that cloned project within the container
-- VSCode terminal/shells into the containerized Ubuntu platform with administrative (sudo) privileges
-- the ability to extend and rebuild the environment by adding elements to a Dockerfile we provide
+- your own GitHub repo (your fork of this project), to which you can push changes from your containerized clone
+- a nicely configured VSCode IDE, already opened for immediate development on that containerized clone 
+- VSCode terminal/shells into the containerized Ubuntu platform with full administrative (sudo) privileges
+- You can extend and rebuild the environment by adding elements to a Dockerfile we provide
+- Start-up after the first one are quick; the first time requires pre-built image downloading
 
 To get it, just follow the yellow brick road ...
 
