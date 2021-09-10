@@ -51,6 +51,10 @@ To get it, just follow the yellow brick road ...
 - Check to see that everything is working
   - Open the test.lean file (src/test/test_lean_mathlib.lean)
   - Check that the conditions described therein are satisfied.
+- Open a terminal and configure git in your Ubuntu container 
+  - git config --global user.name "<your name here>"
+  - git config --global user.email <you@someemail.com>
+  
 - You may now work in and exit from VSCode as you wish. VSCode will let you re-open this project when you're ready to work on it again.
 
 You now have, up and running, the coolest mathematical development environment ever. You're done here now!
