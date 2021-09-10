@@ -27,8 +27,8 @@ To get it, just follow the yellow brick road ...
     - Find and run the Terminal program
     - Enter the following command in the window: *git --version*
     - If git is not installed, you'll be asked whether you want it installed. Answer yes. 
-- Have a GitHub account. Create one for yourself if necessary. It's free: https://github.com/
-- Install Docker Desktop: https://www.docker.com/products/docker-desktop. It's free. If you have it, *be sure* to update it to a current version.
+- Have a GitHub account. Create one for yourself if necessary. https://github.com/
+- Install Docker Desktop: if you already have it, you *must* update it to the current version: https://www.docker.com/products/docker-desktop.
 - Install VSCode: https://code.visualstudio.com/download. It's free. NB: Docker Desktop *must* be running when you start VSCode as part of these instructions, as you will be using Docker container related commands from within VSCode.
 - Launch Docker Desktop and watch for it to complete its start-up procedures. While it starts up, continue to the remaining instructions that follow here. 
 - Use GitHub to fork this repository now. How? Here:
